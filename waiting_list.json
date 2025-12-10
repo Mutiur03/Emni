@@ -2,31 +2,31 @@
   {
     "id": 1,
     "name": "John Doe",
-    "info": "Waiting for doctor appointment",
+    "waiting_time": "15 minutes",
     "image": "https://i.pravatar.cc/150?img=1"
   },
   {
     "id": 2,
     "name": "Sarah Miller",
-    "info": "In queue for service",
+    "waiting_time": "10 minutes",
     "image": "https://i.pravatar.cc/150?img=2"
   },
   {
     "id": 3,
     "name": "David Johnson",
-    "info": "Waiting for payment confirmation",
+    "waiting_time": "20 minutes",
     "image": "https://i.pravatar.cc/150?img=3"
   },
   {
     "id": 4,
     "name": "Emily Walker",
-    "info": "Pending seat allocation",
+    "waiting_time": "5 minutes",
     "image": "https://i.pravatar.cc/150?img=4"
   },
   {
     "id": 5,
     "name": "Michael Brown",
-    "info": "Profile verification under review",
+    "waiting_time": "12 minutes",
     "image": "https://i.pravatar.cc/150?img=5"
   }
 ]
